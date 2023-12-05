@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: Sequence
   m_EditorClassIdentifier: 
   Steps:
-  - StepName: Chest Monster - Dizzy Animation
+  - StepName: ChestMonster - DizzyAnim
     StepType: 0
     Id: 0
     IsSkippable: 0
-  - StepName: Heartbeats - Audio Clip
+  - StepName: Heartbeats - AudioClip
     StepType: 1
     Id: 1
     IsSkippable: 0
-  - StepName: Beholder - SenseSomethingRPT Animation
+  - StepName: Beholder - SenseSomethingAnim
     StepType: 0
     Id: 2
     IsSkippable: 1

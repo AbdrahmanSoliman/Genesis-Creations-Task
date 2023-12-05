@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum StepType // Not required technically for now at least, using it for visual purposes/ clarification
+public enum StepType
 {
     AnimStep, AudioClipStep, MoveCameraStep, GameobjectVisibilityStep 
 }
